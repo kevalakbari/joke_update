@@ -1,0 +1,29 @@
+.container{
+    border: 2px solid black;
+    position: absolute;
+    /* top: 50%; */
+    
+    left: 50%;
+    margin: 100px 0 0 -200px;
+    display: block;
+    text-align: center;
+    background-color: rgb(162, 162, 233);
+    border-radius: 20px;
+    height: 250px;
+    width: 350px;
+}
+
+#joke{
+    padding:8px 8px ;
+}
+#jokebtn{
+    padding: 4px 4px;
+    margin: 10px 10px;
+    border-radius: 5px ;
+    border: 2px splid black;
+    cursor: pointer;
+    background-color: yellow;
+}
+#jokebtn:hover{
+    background-color: rgb(184, 184, 5);
+}
